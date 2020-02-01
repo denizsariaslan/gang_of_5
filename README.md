@@ -1,1 +1,1 @@
-Project link : https://dsari581.github.io/gang_of_5/deniz.html
+Project link : https://denizsariaslan.github.io/gang_of_5/deniz.html
